@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "444957499050",
+    "project_id": "popcinema-dff3c",
+    "storage_bucket": "popcinema-dff3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444957499050:android:4bd29fe37c83beba24fad3",
+        "android_client_info": {
+          "package_name": "com.example.popcinema"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444957499050-49mcfbdsr7ohuene0eoh2fgd7odr7luu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFfQZLq6cMmMaAhr3E4lJw-KRwS86p2cQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444957499050-49mcfbdsr7ohuene0eoh2fgd7odr7luu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
